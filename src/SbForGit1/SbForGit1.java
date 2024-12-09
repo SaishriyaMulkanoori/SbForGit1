@@ -9,5 +9,5 @@ public class SbForGit1 {
 		System.out.println("For Git");
 	}
 
-	Student student=new Student("sai",53);
+	Student student=new Student("shriya",52);
 }
